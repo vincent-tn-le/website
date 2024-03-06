@@ -1,10 +1,50 @@
 import React from 'react'
 import './projects.css'
+import Artscraper from '../../assets/artscraper.png'
+import Etch from '../../assets/etch.png'
+import Stock from '../../assets/stocks.png'
+import Music from '../../assets/music.png'
+
 
 const Projects = () => {
     return (
         <section id='projects'>
-            Projects
+            <h2 className="projectsTitle">Projects</h2>
+            <span className="projectsDesc">Some of the projects that I have completed over the years.</span>
+            <div className="projectImgs">
+                <div className="projectImg">
+                    <img src={Artscraper} alt="Artscraper" className="projectBarImg"/>
+                        <div className="projectBarText">
+                            <h2>Web Scraper</h2>
+                            <p>Python (BeautifulSoup, Flask), PostgreSQL, React.js</p>
+                        </div>
+                </div>
+
+                <div className="projectImg">
+                    <img src={Etch} alt="Etch-a-Sketch" className="projectBarImg"/>
+                        <div className="projectBarText">
+                            <h2>Etch-a-Sketch</h2>
+                            <p>JavaScript, HTML, CSS</p>
+                        </div>
+                </div>
+
+                <div className="projectImg">
+                    <img src={Stock} alt="Stock trading bot" className="projectBarImg"/>
+                        <div className="projectBarText">
+                            <h2>Forex Trading Bot</h2>
+                            <p>Python, FXCM API Connection, Pandas</p>
+                        </div>
+                </div>
+
+                <div className="projectImg">
+                    <img src={Music} alt="Classifying Music Genres" className="projectBarImg"/>
+                        <div className="projectBarText">
+                            <h2>Music Genre Classifier</h2>
+                            <p>Python, Scikit-learn, Jupyter Notebook</p>
+                        </div>
+                </div>
+
+            </div>
         </section>
     );
 }
