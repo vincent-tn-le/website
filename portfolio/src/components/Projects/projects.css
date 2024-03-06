@@ -26,6 +26,7 @@
     flex-wrap: wrap;
     width: 100vw;
     max-width: 65rem;
+    
 }
 
 .projectImg {
@@ -33,13 +34,19 @@
     display: flex;
     align-items: center;
     justify-content: left;
+    color: white;
+}
+
+.projectImg:hover {
+    color: yellow;
 }
 
 .projectBarImg {
     object-fit: cover;
-    height: 20rem;
+    height: 10rem;
     margin: 1rem 1rem;
 }
+
 
 @media screen and (max-width: 585px) {
     .projectImg {
