@@ -9,12 +9,14 @@ const Navbar = () => {
             <div className='empty'></div>
  
             <div className='desktopMenu'>
-                <Link className="desktopMenuListItem">Home</Link>
-                <Link className="desktopMenuListItem">About</Link>
-                <Link className="desktopMenuListItem">Projects</Link>
+                <Link activeClass='active' to='intro' spy={true} offset={-100} duration={500} className="desktopMenuListItem">Home</Link>
+                <Link activeClass='active' to='skills' spy={true} offset={-70} duration={500} className="desktopMenuListItem">About</Link>
+                <Link activeClass='active' to='projects' spy={true} offset={-70} duration={500} className="desktopMenuListItem">Projects</Link>
             </div>
-            <button className='desktopMenuBtn'>
-                <img src={contactImg} alt= "Contact Me" className="desktopMenuImg"/>Contact Me
+            <button className='desktopMenuBtn' onClick={()=> {
+                document.getElementById('contact').scrollIntoView({behavior: 'smooth'})
+            }}>
+            <img src={contactImg} alt= "Contact Me" className="desktopMenuImg"/>Contact Me
             </button>
         </nav>
     )
