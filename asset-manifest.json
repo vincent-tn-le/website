@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/repo-name/static/css/main.7c412c80.css",
-    "main.js": "/repo-name/static/js/main.654f1630.js",
-    "static/media/london_life.png": "/repo-name/static/media/london_life.d284c5742d10acdcc543.png",
-    "static/media/pwc.png": "/repo-name/static/media/pwc.102c3faede64629d0ab1.png",
-    "static/media/artscraper.png": "/repo-name/static/media/artscraper.b6154c3b8594a1fb1e9a.png",
-    "static/media/spark.png": "/repo-name/static/media/spark.d539d396ab77d28917b5.png",
-    "static/media/etch.png": "/repo-name/static/media/etch.6b59bddfb8658f318914.png",
-    "static/media/wealthsimple.png": "/repo-name/static/media/wealthsimple.c46d3ac8c0cf7698bd70.png",
-    "static/media/databricks.png": "/repo-name/static/media/databricks.430f3a5544f895ef47d7.png",
-    "static/media/egress.png": "/repo-name/static/media/egress.ce4428549808e1be91e0.png",
-    "static/media/linkedin.png": "/repo-name/static/media/linkedin.4506ebc862bab12b6eeb.png",
-    "static/media/python.png": "/repo-name/static/media/python.57b7998ecec861bbbad1.png",
-    "static/media/github.png": "/repo-name/static/media/github.8e2a9e7d53fa4340a09e.png",
-    "static/media/rbc.png": "/repo-name/static/media/rbc.215402eb3344e79a4ce8.png",
-    "index.html": "/repo-name/index.html",
-    "main.7c412c80.css.map": "/repo-name/static/css/main.7c412c80.css.map",
-    "main.654f1630.js.map": "/repo-name/static/js/main.654f1630.js.map"
+    "main.css": "/website/static/css/main.7c412c80.css",
+    "main.js": "/website/static/js/main.b4a2f3e6.js",
+    "static/media/london_life.png": "/website/static/media/london_life.d284c5742d10acdcc543.png",
+    "static/media/pwc.png": "/website/static/media/pwc.102c3faede64629d0ab1.png",
+    "static/media/artscraper.png": "/website/static/media/artscraper.b6154c3b8594a1fb1e9a.png",
+    "static/media/spark.png": "/website/static/media/spark.d539d396ab77d28917b5.png",
+    "static/media/etch.png": "/website/static/media/etch.6b59bddfb8658f318914.png",
+    "static/media/wealthsimple.png": "/website/static/media/wealthsimple.c46d3ac8c0cf7698bd70.png",
+    "static/media/databricks.png": "/website/static/media/databricks.430f3a5544f895ef47d7.png",
+    "static/media/egress.png": "/website/static/media/egress.ce4428549808e1be91e0.png",
+    "static/media/linkedin.png": "/website/static/media/linkedin.4506ebc862bab12b6eeb.png",
+    "static/media/python.png": "/website/static/media/python.57b7998ecec861bbbad1.png",
+    "static/media/github.png": "/website/static/media/github.8e2a9e7d53fa4340a09e.png",
+    "static/media/rbc.png": "/website/static/media/rbc.215402eb3344e79a4ce8.png",
+    "index.html": "/website/index.html",
+    "main.7c412c80.css.map": "/website/static/css/main.7c412c80.css.map",
+    "main.b4a2f3e6.js.map": "/website/static/js/main.b4a2f3e6.js.map"
   },
   "entrypoints": [
     "static/css/main.7c412c80.css",
-    "static/js/main.654f1630.js"
+    "static/js/main.b4a2f3e6.js"
   ]
 }
