@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7c412c80.css",
+    "main.js": "/static/js/main.76aff6d2.js",
+    "static/media/london_life.png": "/static/media/london_life.d284c5742d10acdcc543.png",
+    "static/media/pwc.png": "/static/media/pwc.102c3faede64629d0ab1.png",
+    "static/media/artscraper.png": "/static/media/artscraper.b6154c3b8594a1fb1e9a.png",
+    "static/media/spark.png": "/static/media/spark.d539d396ab77d28917b5.png",
+    "static/media/etch.png": "/static/media/etch.6b59bddfb8658f318914.png",
+    "static/media/wealthsimple.png": "/static/media/wealthsimple.c46d3ac8c0cf7698bd70.png",
+    "static/media/databricks.png": "/static/media/databricks.430f3a5544f895ef47d7.png",
+    "static/media/egress.png": "/static/media/egress.ce4428549808e1be91e0.png",
+    "static/media/linkedin.png": "/static/media/linkedin.4506ebc862bab12b6eeb.png",
+    "static/media/python.png": "/static/media/python.57b7998ecec861bbbad1.png",
+    "static/media/github.png": "/static/media/github.8e2a9e7d53fa4340a09e.png",
+    "static/media/rbc.png": "/static/media/rbc.215402eb3344e79a4ce8.png",
+    "index.html": "/index.html",
+    "main.7c412c80.css.map": "/static/css/main.7c412c80.css.map",
+    "main.76aff6d2.js.map": "/static/js/main.76aff6d2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c412c80.css",
+    "static/js/main.76aff6d2.js"
+  ]
+}
