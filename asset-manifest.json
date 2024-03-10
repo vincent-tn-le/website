@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/website/static/css/main.c84d6220.css",
-    "main.js": "/website/static/js/main.b084b9db.js",
+    "main.js": "/website/static/js/main.ad055b44.js",
     "static/media/london_life.png": "/website/static/media/london_life.d284c5742d10acdcc543.png",
     "static/media/pwc.png": "/website/static/media/pwc.102c3faede64629d0ab1.png",
     "static/media/artscraper.png": "/website/static/media/artscraper.b6154c3b8594a1fb1e9a.png",
@@ -16,10 +16,10 @@
     "static/media/rbc.png": "/website/static/media/rbc.215402eb3344e79a4ce8.png",
     "index.html": "/website/index.html",
     "main.c84d6220.css.map": "/website/static/css/main.c84d6220.css.map",
-    "main.b084b9db.js.map": "/website/static/js/main.b084b9db.js.map"
+    "main.ad055b44.js.map": "/website/static/js/main.ad055b44.js.map"
   },
   "entrypoints": [
     "static/css/main.c84d6220.css",
-    "static/js/main.b084b9db.js"
+    "static/js/main.ad055b44.js"
   ]
 }
