@@ -14,7 +14,7 @@ const Skills = () => {
                     <img src={PythonLogo} alt="Python" className="skillBarImg"/>
                     <div className="skillBarText">
                         <h2>Python</h2>
-                        <p>I have used Python throughout my career as my main programming language for data related projects web development.</p>
+                        <p>I have used Python throughout my career as my main programming language for data related projects and web development.</p>
                     </div>
                 </div>
 
