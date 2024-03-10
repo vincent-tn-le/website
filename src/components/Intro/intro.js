@@ -10,7 +10,7 @@ const Intro = () => {
                 <span className="nameTitle">Vincent Le</span>
                 <span className="education">Statistics @ University of Waterloo 2020</span>
                 <span className="details">Programmer, Photographer, Chef</span><br></br> 
-                <Link><button className="resumeButton"><img src={btnImg} className="btnImg"></img> Resume</button></Link>
+                <a href="../../assets/vincent-le_resume.pdf" target="_blank"><button className="resumeButton"><img src={btnImg} className="btnImg"></img> Resume</button></a>
             </div>
             
         </section>
